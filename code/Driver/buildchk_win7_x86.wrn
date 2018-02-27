@@ -1,0 +1,2 @@
+1>warnings in directory c:\users\p0sixb1ackcat\desktop\myself\code\driver
+1>c:\users\p0sixb1ackcat\desktop\myself\code\driver\main.c(50) : warning C4133: 'function' : incompatible types - from 'unsigned short [26]' to 'PCSTR'
